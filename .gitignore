@@ -30,3 +30,4 @@ todo.md
 
 # Auto import files
 .vercel
+.env*
